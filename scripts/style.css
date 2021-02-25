@@ -1,0 +1,55 @@
+/* CSS Document */
+body{
+	margin:0 auto;
+	}
+#escolas a:link{
+	color:#000000;
+	}
+#escolas a:hover{
+	color:#014492;
+	}
+.mapa{
+	margin-top: -20px;
+	}
+.rodape{
+	margin-top: -20px;
+	background-color:#EB6823;
+	color:#FFFFFF;	
+	}
+.branco{	
+	color:#014492;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align:left;
+	}
+.branco:hover{	
+	color:#FFFFFF;
+	}
+.logo_abel{
+	text-align:right;
+	}
+.logo_bienio{
+	width:50%;
+	}
+@media screen and (max-width: 772px) {
+   .branco{	
+	text-align:center;
+	}
+	.rodape{
+	text-align:center;	
+	}
+	.logo_abel{
+	text-align:center;
+	}
+	.logo_bienio{
+	width:100%;
+	}
+}
+.sobre{
+	font-size:18px;
+	}
+a.hover{
+	color:#BDBDBD;
+	}
+.tit{
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
