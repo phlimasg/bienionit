@@ -23,6 +23,7 @@
           <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="color:#FFFFFF;">Fotos <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#" >Dia 11/03/2017</a></li>
+            <li><a href="#" >Dia 11/03/2017</a></li>
           </ul>
         </li>
         <li><a href="atividades_06_maio.php" style="color:#FFFFFF;">Programação</a></li>
